@@ -1,0 +1,6 @@
+{
+  "name": "Resolve360 | Pelotas RS",
+  "description": "Soluções residenciais em Pelotas e região: elétrica, internet, segurança, energia solar, automação e telecom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
